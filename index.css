@@ -1,0 +1,39 @@
+body {
+	background-color: lightyellow !important;
+	font-family: "IBM Plex Mono", monospace !important;
+}
+
+.nav-link {
+	font-size: 17px !important;
+}
+
+#projects {
+	background-color: lightyellow !important;
+}
+
+.map-container{
+ 	overflow:hidden;
+  	padding-bottom:56.25%;
+  	position:relative;
+  	height:0;
+}
+.map-container iframe{
+/*	margin-top: 25px;*/
+  	left:100px;
+  	top:0;
+  	height: 450px;
+  	width:450px;
+  	position:absolute;
+}
+
+#projlogo {
+	width: 18rem;
+}
+
+#mapmap1 {
+	height: 500px;
+}
+
+#mapmap2 {
+	border: 0;
+}
